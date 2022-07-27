@@ -19,3 +19,6 @@ In this project, I developed a new clustering algorithm that combines the visual
 <p align="center">
 <img src="fig1.png" width="600">
 </p>
+
+
+The algorithm is described in this publication: [T. Nishikawa and A. E. Motter, *Discovering Network Structure Beyond Communities*, Scientific Reports **1**, 151 (2011)](https://doi.org/10.1038/srep00151)
