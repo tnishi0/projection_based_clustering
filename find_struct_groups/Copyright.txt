@@ -1,0 +1,34 @@
+Visual Analytics for Discovering Structural Groups in Complex Networks
+
+Copyright (C) 2011  Takashi Nishikawa
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or (at
+your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307,
+USA. 
+
+A copy of the GNU General Public License can be found in License.txt.
+
+Note: A directory named "test" in the original distribution of MatlabBGL has been removed in the directory "matlab_bgl".  No other modification was made to any of the files in the MatlabBGl distribution.  All files in the directory "matlab_bgl" are copyrighted as indicated in each file.
+
+Note: No modification was made to any files in the directory "somtoolbox".  All files in this directory are copyrighted as indicated in the file "Copyright.txt" and in each file.
+
+The data for adjnoun network was downloaded from M. Newman's website and converted to an appropriate format.  See M. E. J. Newman, Finding community structure in networks using the eigenvectors of matrices, Preprint physics/0605087 (2006).
+
+The data for disease network was taken from K.-I. Goh, M. E. Cusick, D. Valle, B. Childs, M. Vidal, and A.-L. Barabási. The human disease network. 104(21):8685–8690, 05 2007.
+
+The data for football network was downloaded from M. Newman's website and converted to an appropriate format.  See M. Girvan and M. E. J. Newman, Community structure in social and biological networks, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002).
+
+The data for karate network was downloaded from M. Newman's website and converted to an appropriate format.  Original data source:  W. W. Zachary. An information flow model for conflict and fission in small groups. J. Anthro. Res., 33(4):452–473, 1977.
+
+The data for netscience network was downloaded from M. Newman's website and converted to an appropriate format.  See M. E. J. Newman, Finding community structure in networks using the eigenvectors of matrices, Preprint physics/0605087 (2006).The data for polbooks network was downloaded from M. Newman's website and converted to an appropriate format.  The compilation of the data is attributed to V. Krebs (http://www.orgnet.com/).
