@@ -8,7 +8,7 @@ In this project, I developed a new clustering algorithm that combines the visual
 
 1. The _p_ features are computed for each node _i_ in a given network of _n_ nodes (panel __a__). The nodes are then represented as points in the _p_-dimensional space, which are projected onto a randomly chosen two-dimensional subspace.
 
-2. Using a graphical interface, the user can either reject the projection (panel __b__), which indicates that there is no visible group separation, or indicate visible groups (panel __c__), which automatically assigns a group index to each node for that particular projection.
+2. Using a graphical interface (see a [demo video of my MATLAB implementation]() and [code](find_struct_groups)), the user can either reject the projection (panel __b__), which indicates that there is no visible group separation, or indicate visible groups (panel __c__), which automatically assigns a group index to each node for that particular projection.
 
 3. Repeating this for a given number of random projections, each node _i_ is associated with a group assignment vector listing the group indices the user has assigned to node _i_ (panel __d__).
 
