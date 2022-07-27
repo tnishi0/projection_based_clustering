@@ -4,7 +4,7 @@ Copyright (C) 2011  Takashi Nishikawa
 
 ## What the software does
 
-This software allows you to choose from a set of networks and apply the method of finding structural groups, which is described in the publication titled,  *Discovering Network Structure Beyond Communities* [Scientific Reports **1**, 151 (2011)].
+This software allows you to choose from a set of networks and apply the method of finding structural groups, which is described in the publication titled,  *Discovering Network Structure Beyond Communities* [[Scientific Reports **1**, 151 (2011)](https://doi.org/10.1038/srep00151)].
 
 Original sources for the data for the available networks can be found in "Copyright.txt".  More detailed description can be found in the above referenced paper.
 
