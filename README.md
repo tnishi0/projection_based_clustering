@@ -1,4 +1,4 @@
-# Clustering Algorithm based on Projection and Visual Analytics Approach
+# Clustering Algorithm based on Projections and Visual Analytics Approach
 
 In this project, I developed a new clustering algorithm that combines the visual pattern recognition ability of humans with the power of automated processing. The figure below illustrates the algorithm:
 
