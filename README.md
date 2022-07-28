@@ -16,10 +16,10 @@ In this project, I developed a new clustering algorithm that combines the visual
 
 5. Quality of grouping as a function of the threshold level (panel __f__). The appropriate number of groups is determined to be 3 for this network, with thresholding at the "elbow" (dashed line).
 
-This algorithm addresses a know issue with the _k_-means algorithm, which tends to divide up clusters that longer than others in the dataset. The figure below illustrates this:
+This algorithm addresses a know issue with the _k_-means algorithm, which tends to divide up clusters that longer than others in the dataset with hetrogeneous cluster variances. The figure below illustrates this:
 
 <p align="center">
-<img src="fig1.png" width="600">
+<img src="fig_comparison.png" width="900">
 </p>
 
 
