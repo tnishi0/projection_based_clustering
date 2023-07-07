@@ -2,6 +2,8 @@
 
 Copyright (C) 2011  Takashi Nishikawa
 
+![find_struct_groups screenshot](find_struct_groups_screenshot.png)
+
 ## What the software does
 
 This software allows you to choose from a set of networks and apply the method of finding structural groups, which is described in the publication titled,  *Discovering Network Structure Beyond Communities* [[Scientific Reports **1**, 151 (2011)](https://doi.org/10.1038/srep00151)].
